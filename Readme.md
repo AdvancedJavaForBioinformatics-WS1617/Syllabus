@@ -1,6 +1,6 @@
 # Syllabus
 
-| Title  | BIOINF4399 - Advanced Java for bioinformatics  |
+|   | BIOINF4399 - Advanced Java for bioinformatics  |
 |---|---|
 |  Lecturer |  Prof. Daniel Huson and Dr. Benjamin Albrecht, Sina Beier and Christopher Jürges |
 | Venue  | Thursday, 8:30-10:00, Hörsaal 1, Sand 6/7  |
