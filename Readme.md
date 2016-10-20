@@ -48,7 +48,7 @@ The introduction to JavaFX will be based on these books:
 **How to get credit for this course**
 
 - Always participate in the weekly problem sessions and actively present your results.
-- You must received at least 50% of possible points to take the exam. Assignments are set every Thursday and are due on at the beginning of the lecture on the following Thursday.
+- You must receive at least 50% of possible points to take the exam. Assignments are set every Thursday and are due on at the beginning of the lecture on the following Thursday.
 - Hand in all programming projects
 - Pass final exam.
 
